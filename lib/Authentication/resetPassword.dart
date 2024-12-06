@@ -109,7 +109,7 @@ class _ResetPasswordState extends State<ResetPassword> {
                   }
                 },
 
-                    child: const Text("إرســــــال",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),))
+                    child: const Text("إرســـــال",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 20),))
 
               ],
             ),
