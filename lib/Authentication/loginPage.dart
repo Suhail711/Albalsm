@@ -340,6 +340,7 @@ class _LoginPageState extends State<LoginPage> {
   }
 
   //دالة التحقق من الاتصال بالانترنت
+
   bool checkInternetConnection(BuildContext context) {
     var connectivityProvider =
     Provider.of<ConnectivityProvider>(context, listen: false);
